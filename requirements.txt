@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+sqlalchemy
+psycopg2
+langchain
+openai
+opencv-python
+numpy
+plotly
